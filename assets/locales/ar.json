@@ -1,0 +1,15 @@
+{"about_app": "حول التطبيق",
+"about_description": "تطبيق بسيط لمساعدتك على تذكر مواعيد أدويتك.",
+"developed_by": "تم التطوير بواسطة",
+"version": "الإصدار",
+"welcome_back": "أهلاً بعودتك!",
+"login_to_continue": "سجل الدخول للمتابعة",
+"username": "اسم المستخدم",
+"password": "كلمة المرور",
+"login": "تسجيل الدخول",
+"username_required": "اسم المستخدم مطلوب",
+"password_required": "كلمة المرور مطلوبة",
+"login_failed": "فشل تسجيل الدخول",
+"invalid_credentials": "بيانات الدخول غير صحيحة."
+}
+

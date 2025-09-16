@@ -1,0 +1,13 @@
+{  "about_app": "About App",
+  "about_description": "A simple app to help you remember your medication times.",
+  "developed_by": "Developed by",
+  "version": "Version",
+  "welcome_back": "Welcome Back!",
+  "login_to_continue": "Login to continue",
+  "username": "Username",
+  "password": "Password",
+  "login": "Login",
+  "username_required": "Username is required",
+  "password_required": "Password is required",
+  "login_failed": "Login Failed",
+  "invalid_credentials": "Invalid credentials."}
